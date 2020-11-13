@@ -1,0 +1,23 @@
+<img class="card-img-top box animated bounce"	<script type="text/javascript">
+	$("#imagem").bind('mouseover',function(){
+		$(this).animate({height:"300px",width:"300px"});
+	});
+	
+	
+	$("#imagem").bind('mouseout',function(){
+		$(this).animate({height:"76px",width:"75px"});
+	});
+	
+	$("#imagem2").bind('mouseover',function(){
+		$(this).animate({height:"300px",width:"300px"});
+	});
+	
+	
+	$("#imagem2").bind('mouseout',function(){
+		$(this).animate({height:"76px",width:"75px"});
+	
+	 });
+	
+	</script
+
+<img class="card-img-top box animated bounce"
